@@ -77,3 +77,9 @@ body {
     .open-menu , .close-menu {display: block;}
     #check:checked ~ .menu {right: 0;}
 }
+
+.image-container {
+    padding: 20px;
+}
+
+
