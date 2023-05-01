@@ -107,4 +107,9 @@ body {
     #check:checked ~ .menu {right: 0;}
 }
 
+.sandwhich-centerpiece{
+        height: 200px;
+        Width: 50%;
+        border: solid green 2px;
+}
 
