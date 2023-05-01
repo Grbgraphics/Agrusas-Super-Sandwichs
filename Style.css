@@ -83,6 +83,8 @@ body {
 .image-container {
     padding: 20px;
     Text-align: center;
+    height: auto;
+    width: 300px;
 }
 
 
