@@ -70,7 +70,7 @@ body {
         top: 0;
         right: -100%;
         z-index: 100;
-        background-color: var(--color2);
+        background-color: #D22B2B;
         transition: all 0.2s ease-in-out;
     }
     .menu li {margin-top: 40px;}
