@@ -25,7 +25,7 @@ body {
 .menu li a {
     display: inline-block;
     text-decoration: none;
-    color: var(--color1);
+    color: var(--color2);
     text-align: center;
     transition: 0.15s ease-in-out;
     position: relative;
