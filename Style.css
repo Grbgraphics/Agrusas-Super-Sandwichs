@@ -77,13 +77,13 @@ body {
         Clear:both;
         Text-align: center;
         Padding: 2px;
-        border: solid red 2px;
+        border: solid blue 2px;
         
 }
 .sandwhich-centerpiece{
         height: 400px;
         Width: auto;
-        border: solid red 2px;
+        border: solid green 2px;
 }
 
 #check {display: none;}
