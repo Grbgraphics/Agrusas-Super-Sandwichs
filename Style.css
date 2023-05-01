@@ -86,6 +86,7 @@ body {
     height: auto;
     width: 300px;
     border: solid red 2px;
+    Content: fill;
 }
 
 
