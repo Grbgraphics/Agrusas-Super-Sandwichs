@@ -86,6 +86,10 @@ body {
         border: solid green 2px;
 }
 
+.button-container {
+  text-align: center;
+}
+
 .order-button {
   width: 100px;
   height: 150px;
