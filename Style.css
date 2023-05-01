@@ -17,6 +17,7 @@ body {
     position: relative;
     background-color: #fff;
     padding: 12px 20px;
+    color: var(--color2);
 }
 .logo img {width: 200px;
            height:auto;}
