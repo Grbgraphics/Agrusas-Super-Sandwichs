@@ -105,6 +105,14 @@ body {
 }
 
 
+.red-shape {
+  height: 10px;
+  width: 100%;
+  background-color: red;
+}
+
+
+
 #check {display: none;}
 @media(max-width: 610px){
     .menu {
