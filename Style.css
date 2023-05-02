@@ -121,6 +121,20 @@ body {
 }
 
 
+.centered-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.centered-text p {
+  font-size: 50px;
+  color: black;
+  text-align: center;
+}
+
+
 
 #check {display: none;}
 @media(max-width: 610px){
