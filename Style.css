@@ -111,12 +111,12 @@ body {
   align-items: center;
   Width: 100%;
   padding-top: 50px;
-  Border: solid red 2px;
+  Border: solid green 2px;
 }
 
 .red-shape {
   height: 3px;
-  width: 400px;
+  width: 150px;
   background-color: red;
 }
 
