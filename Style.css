@@ -109,13 +109,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  Width: 100%;
 }
 
 .red-shape {
-  height: 10px;
-  width: 100%;
-  max-width: 1000px;
+  height: 4px;
+  width: 50px;
   background-color: red;
 }
 
