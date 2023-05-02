@@ -106,9 +106,11 @@ body {
 
 
 .red-shape {
-  height: 10px;
-  width: 100%;
+  height: 4px;
+  width: 100px;
+  padding-top: 10px;
   background-color: red;
+  Text-align: center;
 }
 
 
