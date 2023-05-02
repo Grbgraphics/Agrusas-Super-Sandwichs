@@ -91,8 +91,8 @@ body {
 }
 
 .order-button {
-  width: 150px;
-  height: 80px;
+  width: 180px;
+  height: 70px;
   background-color: red;
   border: none;
   color: white;
@@ -116,7 +116,7 @@ body {
 
 .red-shape {
   height: 3px;
-  width: 150px;
+  width: 250px;
   background-color: red;
 }
 
