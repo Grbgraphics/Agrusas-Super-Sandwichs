@@ -63,7 +63,7 @@ body {
 .wallpaper{
   Display: block;
   Clear: both;
-  border: solid red 2px;
+  
 }
 
 .center-image{
@@ -77,13 +77,13 @@ body {
         Clear:both;
         Text-align: center;
         Padding: 2px;
-        border: solid blue 2px;
+        
         
 }
 .sandwhich-centerpiece{
         height: 200px;
         Width: 350px;
-        border: solid green 2px;
+       
 }
 
 .button-container {
