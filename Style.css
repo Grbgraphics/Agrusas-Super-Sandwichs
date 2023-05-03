@@ -260,9 +260,9 @@ body {
 }
 
 .phone-number {
-  font-size: 100px; /* adjust the font size as needed */
+  font-size: 50px; /* adjust the font size as needed */
   margin-top: 1rem; /* add some margin between the text and the link */
-  color: #fff; 
+  color: black; 
   text-decoration: none; /* remove underline */
   transition: color 0.2s ease-in-out; /* add smooth color transition on hover */
 }
