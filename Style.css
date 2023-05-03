@@ -178,6 +178,10 @@ body {
   color: navy;
 }
 
+.box {
+  text-align: center;
+}
+
 
 .special-deal {
   border: 2px solid red;
