@@ -218,6 +218,33 @@ body {
 }
 
 
+.original-sandwich {
+  background-color: white;
+  border: 2px solid red;
+  border-radius: 20px;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.sandwich-title {
+  color: red;
+  font-weight: bold;
+}
+
+.sandwich-description {
+  color: red;
+  font-weight: bold;
+}
+
+.sandwich-price {
+  margin-top: 20px;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+
 
 
 #check {display: none;}
