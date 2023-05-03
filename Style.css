@@ -154,14 +154,21 @@ body {
 }
 
 
+
+
 .description {
   color: navy;
 }
 
 .description h3 {
   font-weight: normal;
+  margin-bottom: 0;
 }
 
+.description h4 {
+  font-weight: bold;
+  color: navy;
+}
 
 
 
