@@ -259,7 +259,7 @@ body {
   border: 0;
 }
 
-.phone {
+.phone-number {
   font-size: 100px; /* adjust the font size as needed */
   margin-top: 1rem; /* add some margin between the text and the link */
   color: #fff; 
@@ -267,7 +267,7 @@ body {
   transition: color 0.2s ease-in-out; /* add smooth color transition on hover */
 }
 
-.phone:hover,
+.phone-number:hover,
 .phone:focus {
   color: #f00; /* change text color to red on hover or click */
 }
