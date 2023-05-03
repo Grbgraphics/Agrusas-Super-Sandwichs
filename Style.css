@@ -259,24 +259,22 @@ body {
   border: 0;
 }
 
-  .phone-number {
-  font-size: 1.17em;
-  margin-block-start: 0.83em;
-  margin-block-end: 0.83em;
-  font-weight: bold;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
-
-.phone-number h3 {
-  margin-inline-end: 0.5em;
+ .phone-number {
+  font-size: 1.17em; /* This is equivalent to the font-size of h3 */
+  margin: 0 auto; /* This centers the div horizontally */
+  text-align: center; /* This centers the contents of the div */
+  font-weight: bold; /* This is equivalent to the font-weight of h3 */
 }
 
 .phone-number span {
-  color: black;
+  color: black; /* This makes the phone number black */
+  -webkit-tap-highlight-color: transparent; /* This removes the blue highlight */
+  -webkit-user-select: none; /* This prevents text selection on iOS devices */
+  -moz-user-select: none; /* This prevents text selection on older versions of Firefox */
+  -ms-user-select: none; /* This prevents text selection on Internet Explorer */
+  user-select: none; /* This prevents text selection on newer browsers */
 }
+
 
 
 
