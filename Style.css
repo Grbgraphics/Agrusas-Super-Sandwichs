@@ -144,6 +144,16 @@ body {
   color: red;
 }
 
+.subtitle {
+  text-align: left;
+}
+
+.subtitle h2 {
+  font-weight: bold;
+  color: red;
+}
+
+
 
 
 
