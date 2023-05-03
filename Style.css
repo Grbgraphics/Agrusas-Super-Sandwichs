@@ -173,6 +173,36 @@ body {
 }
 
 
+.special-deal {
+  border: 2px solid red;
+  padding: 1em;
+  text-align: center;
+}
+
+.special-deal h3 {
+  color: red;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+.special-deal p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.special-deal p strong {
+  font-weight: bold;
+}
+
+.special-deal p:first-of-type {
+  font-size: 1.2em;
+}
+
+.special-deal p:last-of-type {
+  font-size: 0.9em;
+}
+
+
 
 
 #check {display: none;}
