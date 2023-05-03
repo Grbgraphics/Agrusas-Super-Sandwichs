@@ -163,7 +163,7 @@ body {
 
 .description h3{
   font-weight: bold;
-  Padding-left: 3px;
+  Padding-left: 5px;
   
   
 }
@@ -171,14 +171,14 @@ body {
 .sandwich-list h3 {
     font-weight: bold;
     margin: 10px 0;
-    Padding-left: 3px;
+    Padding-left: 5px;
   }
 
 
 .description h4 {
   font-weight: bold;
   color: navy;
-  Padding-left: 3px;
+  Padding-left: 5px;
 }
 
 .box {
@@ -234,11 +234,13 @@ body {
 .sandwich-title {
   color: red;
   font-weight: bold;
+ Padding-left: 5px;
 }
 
 .sandwich-description {
   color: red;
   font-weight: bold;
+  Padding-left: 5px;
 }
 
 .sandwich-price {
