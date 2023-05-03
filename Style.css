@@ -135,6 +135,16 @@ body {
   font-weight: bold;
 }
 
+.menu-title {
+  text-align: center;
+}
+
+.menu-title h1 {
+  font-weight: bold;
+  color: red;
+}
+
+
 
 
 #check {display: none;}
