@@ -161,12 +161,17 @@ body {
   color: navy;
 }
 
-.description h3 
-.sandwich-list h3{
+.description h3{
   font-weight: bold;
-  margin: 40px 0;
+  
   
 }
+
+.sandwich-list h3 {
+    font-weight: bold;
+    margin: 10px 0;
+  }
+
 
 .description h4 {
   font-weight: bold;
