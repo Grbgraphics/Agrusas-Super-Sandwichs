@@ -260,15 +260,24 @@ body {
 }
 
   .phone-number {
-    font-size: 1.17em;
-    margin-block-start: 0.83em;
-    margin-block-end: 0.83em;
-    font-weight: bold;
-    text-align: center; /* Add this to center the phone number */
-  }
-  .phone-number span {
-    color: black; /* Change the color to black */
-  }
+  font-size: 1.17em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.phone-number h3 {
+  margin-inline-end: 0.5em;
+}
+
+.phone-number span {
+  color: black;
+}
+
 
 
 
