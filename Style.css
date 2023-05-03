@@ -179,9 +179,11 @@ body {
 }
 
 .box {
-  text-align: center;
-  Width: 100%;
-  Height: auto;
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
 
 
