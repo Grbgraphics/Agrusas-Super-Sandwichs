@@ -259,20 +259,17 @@ body {
   border: 0;
 }
 
- .phone-number {
-  font-size: 1.17em; /* This is equivalent to the font-size of h3 */
-  margin: 0 auto; /* This centers the div horizontally */
-  text-align: center; /* This centers the contents of the div */
-  font-weight: bold; /* This is equivalent to the font-weight of h3 */
+.phone {
+  font-size: 100px; /* adjust the font size as needed */
+  margin-top: 1rem; /* add some margin between the text and the link */
+  color: #fff; 
+  text-decoration: none; /* remove underline */
+  transition: color 0.2s ease-in-out; /* add smooth color transition on hover */
 }
 
-.phone-number span {
-  color: black; /* This makes the phone number black */
-  -webkit-tap-highlight-color: transparent; /* This removes the blue highlight */
-  -webkit-user-select: none; /* This prevents text selection on iOS devices */
-  -moz-user-select: none; /* This prevents text selection on older versions of Firefox */
-  -ms-user-select: none; /* This prevents text selection on Internet Explorer */
-  user-select: none; /* This prevents text selection on newer browsers */
+.phone:hover,
+.phone:focus {
+  color: #f00; /* change text color to red on hover or click */
 }
 
 
