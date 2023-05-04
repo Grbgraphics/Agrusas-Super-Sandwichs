@@ -126,6 +126,8 @@ body {
   justify-content: center;
   align-items: center;
   height: 200px;
+  Padding-left: 25px;
+  Padding-right: 25px;
 }
 
 .centered-text p {
