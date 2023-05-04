@@ -249,20 +249,26 @@ body {
 }
 
 
-.timebox {
- 
+.parent-container {
   display: flex;
   justify-content: center;
-  Text-align: center;
+  align-items: center;
+}
 
+.timebox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
 }
 
 .time {
   padding: 1em;
   text-align: left;
-  Width: 350px;
-  
+  width: 350px;
+  margin: 0 auto;
 }
+
 
 
 
