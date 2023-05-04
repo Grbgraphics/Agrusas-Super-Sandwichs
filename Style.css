@@ -228,17 +228,26 @@ body {
   margin-bottom: 0.5em;
 }
 
-.special-deal p strong {
+
+
+.special-dealer {
+  padding: 1em;
+  text-align: center;
+  Width: 350px;
+  
+}
+
+.special-dealer h3 {
+  color: red;
   font-weight: bold;
+  margin-top: 0;
 }
 
-.special-deal p:first-of-type {
-  font-size: 1.2em;
+.special-dealer p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
-.special-deal p:last-of-type {
-  font-size: 0.9em;
-}
 
 
 .original-sandwich {
