@@ -137,6 +137,22 @@ body {
   font-weight: bold;
 }
 
+.picture-container {
+  max-width: 300px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.picture-container img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+
+
+
 .menu-title {
   text-align: center;
 }
