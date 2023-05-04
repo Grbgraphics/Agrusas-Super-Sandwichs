@@ -249,20 +249,19 @@ body {
 }
 
 
-.parent-container {
+.container {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.timebox {
+.hours-of-operation-box {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
 }
 
-.time {
+table {
   padding: 1em;
   text-align: left;
   width: 350px;
